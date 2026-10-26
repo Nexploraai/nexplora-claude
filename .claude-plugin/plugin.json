@@ -1,0 +1,10 @@
+{
+  "name": "nexplora",
+  "displayName": "Nexplora",
+  "version": "1.0.2",
+  "description": "Use your Nexplora account from Claude: connected apps, CRM and support records, memory, skills and your own AI models. Anything that changes something waits for your approval.",
+  "author": { "name": "Nexplora", "url": "https://nexplora.ai" },
+  "homepage": "https://nexplora.ai/mcp",
+  "repository": "https://github.com/nexploraai/nexplora-claude",
+  "license": "MIT"
+}

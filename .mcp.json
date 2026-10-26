@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nexplora": {
+      "type": "http",
+      "url": "https://nexplora.ai/api/mcp/claude"
+    }
+  }
+}
